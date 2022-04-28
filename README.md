@@ -38,6 +38,9 @@ http://www.open3d.org/docs/release/compilation.html
 https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 
 4. sudo apt install ros-noetic-octomap-ros
+5. To resolve rviz issue
+sudo apt install qt5-default
+sudo apt-get install ogre-2.2
 
 ### Requirements
 
