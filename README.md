@@ -48,6 +48,11 @@ sudo update-alternatives --config gcc
 catkin_aa/src/rpg_mpl_ros/planning_ros_utils/src/planning_rviz_plugins/map_display.cpp
 Comment out line 39
 
+7. add this to the file `/src/rpg_mpl_ros/mpl_test_node/CMake_List.txt' set(CMAKE_CXX_STANDARD 14)
+
+8. sudo apt install nvidia-cuda-toolkit
+
+
 ### Requirements
 
 The code was tested with Ubuntu 20.04, ROS Noetic, Anaconda v4.8.3., and `gcc/g++` 7.5.0.
