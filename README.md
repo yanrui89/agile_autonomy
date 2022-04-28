@@ -28,6 +28,14 @@ Science Paper: [DOI](https://www.science.org/doi/10.1126/scirobotics.abg5810)
 ```
 
 ## Installation
+0. Install ros noetic
+http://wiki.ros.org/noetic/Installation/Ubuntu
+1. Think try not to install conda first.
+
+2. Need to install Open3d
+http://www.open3d.org/docs/release/compilation.html
+3. Install CMAKE version 
+https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 
 ### Requirements
 
