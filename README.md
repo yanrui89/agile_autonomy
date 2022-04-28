@@ -37,6 +37,8 @@ http://www.open3d.org/docs/release/compilation.html
 3. Install CMAKE version 
 https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 
+4. sudo apt install ros-noetic-octomap-ros
+
 ### Requirements
 
 The code was tested with Ubuntu 20.04, ROS Noetic, Anaconda v4.8.3., and `gcc/g++` 7.5.0.
