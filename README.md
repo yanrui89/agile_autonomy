@@ -32,6 +32,8 @@ Science Paper: [DOI](https://www.science.org/doi/10.1126/scirobotics.abg5810)
 http://wiki.ros.org/noetic/Installation/Ubuntu
 1. Think try not to install conda first.
 
+Otherwise, can do this for catkin build `catkin build -DPYTHON_EXECUTABLE=/usr/bin/python3`
+
 2. Need to install Open3d
 http://www.open3d.org/docs/release/compilation.html
 3. Install CMAKE version 
