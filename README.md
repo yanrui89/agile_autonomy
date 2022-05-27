@@ -55,6 +55,13 @@ Comment out line 39
 8. sudo apt install nvidia-cuda-toolkit
 
 
+CUDA Issues
+purge everything
+https://forums.developer.nvidia.com/t/nvidia-smi-has-failed-because-it-couldnt-communicate-with-the-nvidia-driver-make-sure-that-the-latest-nvidia-driver-is-installed-and-running/197141/5
+
+Install cuda https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=deb_local
+
+
 ### Requirements
 
 The code was tested with Ubuntu 20.04, ROS Noetic, Anaconda v4.8.3., and `gcc/g++` 7.5.0.
