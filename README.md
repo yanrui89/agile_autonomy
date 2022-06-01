@@ -44,7 +44,8 @@ https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 sudo apt install qt5-default
 sudo apt-get install ogre-2.2
 
-6. to select gcc version to use
+6. to select gcc version to use and to install gcc
+sudo apt install gcc-8 g++-8 gcc-9 g++-9 gcc-10 g++-10
 sudo update-alternatives --config gcc
 
 catkin_aa/src/rpg_mpl_ros/planning_ros_utils/src/planning_rviz_plugins/map_display.cpp
