@@ -55,6 +55,10 @@ Comment out line 39
 
 8. sudo apt install nvidia-cuda-toolkit
 
+9. flightmare issues https://github.com/uzh-rpg/agile_autonomy/issues/9
+
+
+
 
 CUDA Issues
 purge everything
