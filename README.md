@@ -61,6 +61,10 @@ Comment out line 39
 
 9. flightmare issues https://github.com/uzh-rpg/agile_autonomy/issues/9
 
+10. Issues with this 'undefined symbol: _ZN14gz_sensor_msgs9ActuatorsC1Ev' when runing launch file.
+https://github.com/ethz-asl/rotors_simulator/issues/661 and link to this https://github.com/ethz-asl/rotors_simulator/pull/667
+Seems like it;s a melodic issue
+
 
 
 
