@@ -36,6 +36,10 @@ Otherwise, can do this for catkin build `catkin build -DPYTHON_EXECUTABLE=/usr/b
 
 2. Need to install Open3d
 http://www.open3d.org/docs/release/compilation.html
+look at this: could be open3d version issue 
+https://github.com/uzh-rpg/agile_autonomy/issues/12
+
+
 3. Install CMAKE version 
 https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 
