@@ -65,6 +65,11 @@ Comment out line 39
 https://github.com/ethz-asl/rotors_simulator/issues/661 and link to this https://github.com/ethz-asl/rotors_simulator/pull/667
 Seems like it;s a melodic issue
 
+11. Issue with boost from cv_bridge.boost.cv_bridge_boost import getCvType
+ https://stackoverflow.com/questions/49221565/unable-to-use-cv-bridge-with-ros-kinetic-and-python3/50291787#50291787. build vision_cv from source.
+
+
+
 
 
 
